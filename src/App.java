@@ -1,19 +1,20 @@
 public class App {
     public static void main(String[] args) throws Exception {
 
-        int age = 10;
+        int age = 100;
         int n1 = 1;
-        
+        // Q1
+
         //Q3
 
-        if (age > 0 && age < 18) {
-            System.out.println("You are underage");
-        }
-        else if (age >= 65) {
-            System.out.println("You are retired");
-        }
-        else 
-        System.out.println("You are an adult");
+        // if (age > 0 && age < 18) {
+        //     System.out.println("You are underage");
+        // }
+        // else if (age >= 65) {
+        //     System.out.println("You are retired");
+        // }
+        // else 
+        // System.out.println("You are an adult");
         
 
         //Q5
@@ -24,9 +25,9 @@ public class App {
 
         //5b. Anniversary Party!!
     
-        // if (age >= 10 && age%10 == 0) {
-        //     System.out.println("Anniversary Part!!");
-        // }
+        if (age >= 10 && age%10 == 0) {
+            System.out.println("Anniversary Part!!");
+        }
         
        // 5c. Congratulations!!!
 
