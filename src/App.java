@@ -1,7 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
 
-        int age = 100;
+        int age = 120;
         int n1 = 1;
         // Q1
 
