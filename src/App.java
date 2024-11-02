@@ -6,7 +6,7 @@ public class App {
         
         //Q3
 
-        if (age > 0 && age < 20) {
+        if (age > 0 && age < 18) {
             System.out.println("You are underage");
         }
         else if (age >= 65) {
@@ -19,7 +19,7 @@ public class App {
         //Q5
         // 5a. You can drive a car.
 
-        // if (age == 20) {
+        // if (age == 18) {
         // System.out.println("You )an drive a car");
 
         //5b. Anniversary Party!!
