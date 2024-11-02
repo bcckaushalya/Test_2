@@ -31,10 +31,10 @@ public class App {
         
        // 5c. Congratulations!!!
 
-        if (age == 100 && n1<=3) {
-            for (n1 = 1; n1<=3; n1++)
-            System.out.println("Congratulations!!!");
-        }
+        // if (age == 100 && n1<=3) {
+        //     for (n1 = 1; n1<=3; n1++)
+        //     System.out.println("Congratulations!!!");
+        // }
 
         //5d. Happy mid-life
 
